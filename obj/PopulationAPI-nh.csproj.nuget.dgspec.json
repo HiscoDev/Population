@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/administrator/Projects/PopulationAPI-nh/PopulationAPI-nh/PopulationAPI-nh.csproj": {}
+  },
+  "projects": {
+    "/Users/administrator/Projects/PopulationAPI-nh/PopulationAPI-nh/PopulationAPI-nh.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/administrator/Projects/PopulationAPI-nh/PopulationAPI-nh/PopulationAPI-nh.csproj",
+        "projectName": "PopulationAPI-nh",
+        "projectPath": "/Users/administrator/Projects/PopulationAPI-nh/PopulationAPI-nh/PopulationAPI-nh.csproj",
+        "packagesPath": "/Users/administrator/.nuget/packages/",
+        "outputPath": "/Users/administrator/Projects/PopulationAPI-nh/PopulationAPI-nh/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/administrator/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
