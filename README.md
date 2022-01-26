@@ -1,6 +1,6 @@
 # Development Test Requirements for Population Sample Application
 
-## Required technologies
+## Required technologies test
 - C# .NET Core
 
 ## Sample application must include at a minimum:
