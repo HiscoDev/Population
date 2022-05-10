@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1cLEHtV5ESrYGzvuI8w9i4PyuER+9u/8kbby8xOJ6ewomzorp09RxqLNzJ/4LtkKf5mUROM3eITXHsCs6fe8g==",
+  "success": true,
+  "projectFilePath": "C:\\Hariteja\\InterviewProject\\PopulationMonitor\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harit\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512"
+  ],
+  "logs": []
+}
