@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tsh+3KJ77OWzs1A22koTkOXNyfaQmRNW4uzxIMiwhAx8z0pWgPNPDv3tPyXVisCllyoUeCW2rvVVGLMlyPhVqw==",
+  "success": true,
+  "projectFilePath": "C:\\Hariteja\\InterviewProject\\PopulationMonitor\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harit\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512"
+  ],
+  "logs": []
+}
